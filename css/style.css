@@ -263,15 +263,6 @@ footer a.top {
   margin-right: auto;
 }
 
-/*get size: http://www.benfrain.com/downloads/respond.html*/
-
-@media (max-width: 1350px) and (min-width: 990px) {
-  .img-frame {
-    width: 15rem;
-    height: 15rem;
-  }
-}
-
 #fade-in-text {
   text-align: center;
   position: absolute;
