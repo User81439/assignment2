@@ -113,8 +113,16 @@ padding-top: 0.5rem;
   background-color: #323232;
 }
 
-.text-center{
+.text-center {
   text-align: center;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-italic {
+  font-weight: lighter;
 }
 
 .col-sm-12 p, .col-md-12 p, .col-lg-12 p {
