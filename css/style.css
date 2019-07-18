@@ -83,7 +83,18 @@ ol.navbar li.left {
   height: 50rem;
 }
 
-.bottom-img{
+.parralax-img-1 {
+  background-image: url("../img/pictures/churchill-house-4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  display: inline-grid;
+  width: 100%;
+  height: 24rem;
+}
+
+.parralax-img-2 {
   background-image: url("../img/pictures/churchill-house-17.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -92,6 +103,28 @@ ol.navbar li.left {
   display: inline-grid;
   width: 100%;
   height: 30rem;
+}
+
+.parralax-img-3 {
+  background-image: url("../img/pictures/churchill-house-11.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  display: inline-grid;
+  width: 100%;
+  height: 20rem;
+}
+
+.parralax-img-4 {
+  background-image: url("../img/pictures/churchill-house-19.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  display: inline-grid;
+  width: 100%;
+  height: 28rem;
 }
 
 .light-bg {
@@ -115,14 +148,6 @@ padding-top: 0.5rem;
 
 .text-center {
   text-align: center;
-}
-
-.text-bold {
-  font-weight: bold;
-}
-
-.text-italic {
-  font-weight: lighter;
 }
 
 .col-sm-12 p, .col-md-12 p, .col-lg-12 p {
@@ -219,7 +244,7 @@ footer a.top {
   width: 100%;
 }
 
-.chevron{
+.chevron {
   display: flex;
   position: relative;
   width: 100px;
@@ -262,13 +287,33 @@ footer a.top {
   background-color: white;
 }
 
-.img-frame {
+.img-frame-set {
   display: inline-grid;
   width: 21rem;
   height: 21rem;
   padding: 0.1rem 0.1rem 0.1rem 0.1rem;
   margin-left: auto;
   margin-right: auto;
+}
+
+.img-frame-dyn-h {
+  display: inline-grid;
+  width: 21rem;
+  height: 100%;
+  padding: 0.1rem 0.1rem 0.1rem 0.1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-frame-dyn-w {
+  display: inline-grid;
+  width: 100%;
+  height: 25rem;
+  padding: 0.1rem 0.1rem 0.1rem 0.1rem;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 #fade-in-text {

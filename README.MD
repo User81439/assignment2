@@ -2,7 +2,9 @@ TODO:
 put in good images
 image descriptions below on index
 
-remove inline styles...
+add comments
+
+//remove inline styles...
 
 rationale
 
