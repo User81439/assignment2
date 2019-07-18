@@ -2,6 +2,8 @@ TODO:
 
 descriptions for image alt(s)
 good/better index images
+add Churchill House: to titles
+double check statement images after alts added
 
 //add comments
 
